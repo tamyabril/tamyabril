@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial neural netwoks
 - 🌱 I’m currently learning python progragraming 
 - 💞️ I’m looking to collaborate on .convolutional neural network
-- 📫 How to reach me dft793@gmail.com
+- 📫 How to reach me 
 
 <!---
 tamyabril/tamyabril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
